@@ -5,3 +5,8 @@ task helloworld << {
 task findfile << {
     println "Find the file"
 }
+
+task copyfile << {
+    println "Copy the file"
+}
+
