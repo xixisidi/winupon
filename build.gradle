@@ -1,3 +1,7 @@
 task helloworld << {
     println "Hello World zhu"
 }
+
+task findfile << {
+    println "Find the file"
+}
